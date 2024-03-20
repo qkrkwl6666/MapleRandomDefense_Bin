@@ -1,0 +1,9 @@
+ID,FPS,LOOPTYPE,,
+tilemap,10,0,,
+,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics\Tile\MapImage.png,0,0,83,487
+graphics\Tile\MapImage.png,83,0,83,487
+graphics\Tile\MapImage.png,166,0,83,487
+graphics\Tile\MapImage.png,249,0,83,487
+graphics\Tile\MapImage.png,332,0,83,487

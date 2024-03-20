@@ -1,0 +1,11 @@
+ID,FPS,LOOPTYPE
+7,10,0
+
+TEXTURE,X,Y,WIDTH,HEIGHT
+graphics\Hydralisk1.png,0,0,6,407
+graphics\Hydralisk1.png,6,0,6,407
+graphics\Hydralisk1.png,12,0,6,407
+graphics\Hydralisk1.png,18,0,6,407
+graphics\Hydralisk1.png,24,0,6,407
+graphics\Hydralisk1.png,30,0,6,407
+graphics\Hydralisk1.png,36,0,6,407
