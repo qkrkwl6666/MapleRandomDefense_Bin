@@ -1,3 +1,7 @@
 ID,FPS,LOOPTYPE
+<<<<<<< HEAD
 abcd,10,0
+=======
+,,
+>>>>>>> main
 TEXTURE,X,Y,WIDTH,HEIGHT
