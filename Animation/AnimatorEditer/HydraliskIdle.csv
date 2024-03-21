@@ -1,0 +1,5 @@
+ID,FPS,LOOPTYPE,FRAME,,,
+HydraliskIdle,7,1,1,,,
+,,,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT,ANGLE,ORIGIN
+graphics\Hydralisk.png,0,174,45,58,0,
