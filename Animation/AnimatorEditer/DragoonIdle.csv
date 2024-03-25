@@ -1,0 +1,12 @@
+ID,FPS,LOOPTYPE,FRAME,,,
+DragoonIdle,10,1,8,,,
+,,,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT,ANGLE,ORIGIN
+graphics\Dragoon.png,0,0,65,65,0,
+graphics\Dragoon.png,0,65,65,65,0,
+graphics\Dragoon.png,0,130,65,65,0,
+graphics\Dragoon.png,0,195,65,65,0,
+graphics\Dragoon.png,0,260,65,65,0,
+graphics\Dragoon.png,0,325,65,65,0,
+graphics\Dragoon.png,0,390,65,65,0,
+graphics\Dragoon.png,0,455,65,65,0,

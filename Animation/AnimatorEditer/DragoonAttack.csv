@@ -1,0 +1,12 @@
+ID,FPS,LOOPTYPE,FRAME,,,
+DragoonAttack,10,1,8,,,
+,,,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT,ANGLE,ORIGIN
+graphics\Dragoon_Attack.png,0,0,67,65,0,
+graphics\Dragoon_Attack.png,0,65,67,65,0,
+graphics\Dragoon_Attack.png,0,130,67,65,0,
+graphics\Dragoon_Attack.png,0,195,67,65,0,
+graphics\Dragoon_Attack.png,0,260,67,65,0,
+graphics\Dragoon_Attack.png,0,325,67,65,0,
+graphics\Dragoon_Attack.png,0,390,67,65,0,
+graphics\Dragoon_Attack.png,0,455,67,65,0,
