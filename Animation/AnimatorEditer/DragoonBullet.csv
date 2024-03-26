@@ -1,0 +1,9 @@
+ID,FPS,LOOPTYPE,FRAME,,,
+DragoonBullet,10,1,5,,,
+,,,,,,
+TEXTURE,X,Y,WIDTH,HEIGHT,ANGLE,ORIGIN
+graphics\DragoonBullet.png,0,0,32,32,0,
+graphics\DragoonBullet.png,0,32,32,32,0,
+graphics\DragoonBullet.png,0,64,32,32,0,
+graphics\DragoonBullet.png,0,96,32,32,0,
+graphics\DragoonBullet.png,0,128,32,32,0,
