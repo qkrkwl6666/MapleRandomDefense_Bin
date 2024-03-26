@@ -1,5 +1,5 @@
 ID,FPS,LOOPTYPE,FRAME,,,
-HydraliskAttack,10,1,5,,,
+HydraliskAttack,5,1,5,,,
 ,,,,,,
 TEXTURE,X,Y,WIDTH,HEIGHT,ANGLE,ORIGIN
 graphics\Hydralisk_Attack.png,0,0,45,58,0,
