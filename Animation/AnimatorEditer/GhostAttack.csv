@@ -1,5 +1,5 @@
 ID,FPS,LOOPTYPE,FRAME,,,
-GhostAttack,10,1,4,,,
+GhostAttack,4,1,4,,,
 ,,,,,,
 TEXTURE,X,Y,WIDTH,HEIGHT,ANGLE,ORIGIN
 graphics\Ghost_Attack.png,0,0,42,38,0,
