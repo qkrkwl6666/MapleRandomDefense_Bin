@@ -1,5 +1,5 @@
 ID,FPS,LOOPTYPE,FRAME,,,
-HydraliskProjectile,7,1,7,,,
+HydraliskProjectile,9,1,7,,,
 ,,,,,,
 TEXTURE,X,Y,WIDTH,HEIGHT,ANGLE,ORIGIN
 graphics\HydraliskProjectile.png,0,0,89,125,0,
