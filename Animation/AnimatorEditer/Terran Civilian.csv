@@ -1,5 +1,5 @@
 ID,FPS,LOOPTYPE,FRAME,,,
-CivilianMove,10,1,8,,,
+CivilianMove,50,1,8,,,
 ,,,,,,
 TEXTURE,X,Y,WIDTH,HEIGHT,ANGLE,ORIGIN
 graphics\Terran Civilian.png,0,0,24,35,0,
